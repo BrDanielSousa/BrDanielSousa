@@ -6,10 +6,7 @@
 ## Sobre mim 🙍‍♂️
 
 💻 Trabalho como Fullstack Junior<br>
-📚 Aprendendo mais sobre o universo javascript<br>
-🎶 Amante da música e viciado em instrumentos musicais <br>
-🎮 Uma jogatina entre um código e outro<br>
-⚽ FLAMENGO❤️ 
+📚 Aprendendo mais sobre o universo de SpringBoot<br>
 <br>
 ## Stack 💻
 
