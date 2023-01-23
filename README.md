@@ -1,7 +1,6 @@
 # Daniel Oliveira Sousa
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-87CEEB?style=for-the-badge&logo=linkedin&logoColor=blue)](#) &nbsp;
-[![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=purple)](#) &nbsp;
+[![Linkedin Badge](https://www.linkedin.com/in/daniel-oliveira-sousa-680015228?style=for-the-badge&logo=linkedin&logoColor=blue)](#) &nbsp;
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferreirajr026@gmail.com) &nbsp;
 <br>
 ## Sobre mim 🙍‍♂️
