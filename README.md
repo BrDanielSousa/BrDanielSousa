@@ -5,7 +5,7 @@
 <br>
 ## Sobre mim 🙍‍♂️
 
-💻 Trabalho como Fullstack Junior<br>
+💻 Trabalho como Desenvolvedor Back-end Junior<br>
 📚 Aprendendo mais sobre o universo de SpringBoot<br>
 🎓 Cursando Ciência da Computação na faculdade Anhanguera Educacional<br>
 <br>
