@@ -7,7 +7,7 @@
 
 💻 Trabalho como Desenvolvedor Full-Stack<br>
 📚 Aprendendo mais sobre o universo de Laravel<br>
-🎓 Cursando Ciência da Computação na faculdade Anhanguera Educacional<br>
+🎓 Ciência da Computação na faculdade Anhanguera Educacional<br>
 <br>
 ## Stack 💻
 
