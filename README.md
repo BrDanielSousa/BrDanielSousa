@@ -5,7 +5,7 @@
 <br>
 ## Sobre mim 🙍‍♂️
 
-💻 Trabalho como Desenvolvedor Full-Stack<br>
+💻 Desenvolvedor Full-Stack<br>
 📚 Aprendendo mais sobre o universo de Laravel<br>
 🎓 Ciência da Computação na faculdade Anhanguera Educacional<br>
 <br>
